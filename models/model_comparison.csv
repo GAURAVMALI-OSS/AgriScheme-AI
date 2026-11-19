@@ -1,0 +1,5 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score
+Logistic_Regression,50.0,50.0,50.0,50.0
+Perceptron,50.0,33.33,50.0,37.5
+Neural_Network,75.0,87.5,75.0,75.0
+Decision_Tree,75.0,58.33,75.0,65.0

@@ -1,0 +1,9 @@
+age,land_area,income,crop,irrigation,category,scheme
+25,2,80000,wheat,yes,small,PM_KISAN
+35,5,150000,rice,yes,medium,PMFBY
+45,1,60000,cotton,no,small,PM_KISAN
+30,4,120000,sugarcane,yes,medium,PMFBY
+50,8,200000,wheat,no,large,KCC
+28,3,90000,rice,no,small,PM_KISAN
+40,6,180000,cotton,yes,medium,KCC
+55,10,250000,sugarcane,yes,large,PMFBY
